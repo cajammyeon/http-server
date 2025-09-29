@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/server.dir/src/server.cpp.o -o server  vcpkg_installed/x64-linux/lib/libz.a 
